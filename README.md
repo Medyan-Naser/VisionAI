@@ -32,3 +32,9 @@ A higher IoU score indicates better model performance in accurately detecting ob
 ### 3: Discovering Correlation Between Object Size and Object IoU for Different Category Classes
 https://github.com/user-attachments/assets/8c6c0565-dcff-4a93-9b3f-10fb0856d2e2
 
+
+## Datasets
+
+The dataset that will be used is called the Cityscapes dataset, which contains 5000 images and high quality ground truth label. The images are seperated into 2975 training images, 500 validation images, and 1525 test images.
+
+The required data can be downloaded from https://www.cityscapes-dataset.com/downloads
